@@ -31,7 +31,7 @@ else:
 
 print("Custo de Transporte Premium $", custo_premium)
 
-## Trasnporte por Drone ##
+## Transporte por Drone ##
 
 if peso <= 3:
   custo_drone = peso * 5.5
