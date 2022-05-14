@@ -1,6 +1,6 @@
 ### Valores em 3 Tipos de Transporte ###
 
-peso = 300
+peso = 200
 custo = ""
 
 ## Transporte Terrestre ##
