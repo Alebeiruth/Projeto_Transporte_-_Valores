@@ -1,6 +1,5 @@
 ### Valores em 3 Tipos de Transporte ###
 
-
 peso = 300
 custo = ""
 
@@ -32,7 +31,6 @@ else:
 
 print("Custo de Transporte Premium $", custo_premium)
 
-
 ## Trasnporte por Drone ##
 
 if peso <= 3:
@@ -45,4 +43,3 @@ else:
   custo_drone = peso * 16.25
 
 print("Transporte por Drone $", custo_drone)
-
